@@ -1,0 +1,5 @@
+# a = ('aisaev', 'izat')
+# s = list(a)
+# s.append('15')
+# d = tuple(s)
+# print(d)

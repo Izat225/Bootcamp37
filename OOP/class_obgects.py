@@ -157,3 +157,69 @@
 
 
 
+
+
+
+
+class Adam:
+    def __init__(self,name,age):
+        self.x = name
+        self.y = age
+    def info(self):
+        return self .x, self.x
+adam = Adam('sa','a')
+print(adam.info())
+print(Adam)
+
+class admin:
+    def __admin__(self,a,d):
+        self.n = a
+        self.e = d
+
+        return self .n,self.e
+a = (admin,'age','name')
+print(a)
+from urllib3.util.wait import select_wait_for_socket
+
+
+class Adam:
+    def __init__(self,name,age):
+        self.x = name
+        self.y = age
+    def info(self):
+        return self .x, self.x
+adam = Adam('sa','a')
+print(adam.info())
+print(Adam)
+
+class admin:
+    def __admin__(self,a,d):
+        self.n = a
+        self.e = d
+
+        return self .n,self.e
+a = (admin,'age','name')
+print(a)
+from urllib3.util.wait import select_wait_for_socket
+
+
+class Adam:
+    def __init__(self,name,age):
+        self.x = name
+        self.y = age
+    def info(self):
+        return self .x, self.x
+adam = Adam('sa','a')
+print(adam.info())
+print(Adam)
+
+class admin:
+    def __admin__(self,a,d):
+        self.n = a
+        self.e = d
+
+        return self .n,self.e
+a = (admin,'age','name')
+print(a)
+
+
